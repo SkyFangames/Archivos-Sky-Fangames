@@ -1,3 +1,3 @@
-GAME_VERSION=0.1.12
-DOWNLOAD_URL=https://www.mediafire.com/file/fpmasw6m7rtsox1/Pokemon_Royal_v0.1.12.zip/file
-DOWNLOAD_URL=https://mega.nz/file/5ugmiSSY#LReVEcO_GGXKArfm7rhe5Rk8xmaGG_6MI690rc99Yek
+GAME_VERSION=0.1.13
+DOWNLOAD_URL=https://www.mediafire.com/file/pf2d3575ykelmen/Pokemon_Royal_v0.1.13.zip/file
+DOWNLOAD_URL=https://mega.nz/file/4nhDnDDJ#lzKQe7wH_J5dXPcONbHyVq8b_-ZPglU1P08KZm2MNEg
