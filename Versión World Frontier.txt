@@ -1,2 +1,2 @@
-GAME_VERSION=1.1.1
-DOWNLOAD_URL=https://www.mediafire.com/file/u553kt9xmatpznm/Pokemon_World_Frontier_v1.1.1_Windows_Linux.zip/file
+GAME_VERSION=1.1.3
+DOWNLOAD_URL=https://www.mediafire.com/file/yeqjjalhwq896iy/Pokemon_World_Frontier_v1.1.3_Windows_Linux.zip/file
